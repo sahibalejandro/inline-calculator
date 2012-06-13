@@ -2,7 +2,7 @@ Sublime Text 2 Plugin for calculate numerical operations from selected text and 
 
 Just select an arithmetic expression and select it, hit ctrl+alt+c, selected text will be replaced by the expression result.
 
-Example:
+<h2>Example:</h2>
 
 Type "2+2" and select it, then press ctrl+alt+c (or command+alt+c in OSX), the selected text will be replaced by "4".
 
