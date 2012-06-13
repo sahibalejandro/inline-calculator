@@ -1,9 +1,9 @@
-Sublime Text 2 Plugin for calculate numerical operations from selected text and replace it with the result.
+Sublime Text 2 Plugin for calculate arithmetic operations from selected text and replace it with the result.
 
-Just select an arithmetic expression and select it, hit ctrl+alt+c, selected text will be replaced by the expression result.
+Just select an arithmetic expression and select it, hit __ctrl+alt+c__, selected text will be replaced by the expression result.
 
-<h2>Example:</h2>
+__Example:__
 
-Type "2+2" and select it, then press ctrl+alt+c (or command+alt+c in OSX), the selected text will be replaced by "4".
+Type "__2+2__" and select it, then press __ctrl+alt+c__ (_or command+alt+c in OSX_), the selected text will be replaced by "__4__".
 
 You can perform any arithmetic operation following the syntax of Python.
