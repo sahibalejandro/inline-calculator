@@ -1,0 +1,27 @@
+[
+  {
+    "id": "preferences",
+    "children":
+    [
+      {
+        "caption": "Package Settings",
+        "mnemonic": "P",
+        "id": "package-settings",
+        "children":
+        [
+          {
+            "caption": "Inline Calculator",
+            "children":
+            [
+              {
+                "command": "open_file",
+                "caption": "Key Bindings – Default",
+                "args": {"file":"${packages}/Inline Calculator/Default ($platform).sublime-keymap"}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
