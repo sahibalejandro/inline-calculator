@@ -7,5 +7,4 @@ class InlineCalculatorCommand(sublime_plugin.TextCommand):
       expr = self.view.substr( region );
       if re.match('^[0-9+\-*/%\(\). ]+$', expr):
         result = eval( expr )
-        print result
         self.view.replace( edit, region, str( result ) )
