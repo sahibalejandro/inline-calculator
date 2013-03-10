@@ -4,6 +4,6 @@ Just select an arithmetic expression and select it, hit __ctrl+alt+c__, selected
 
 __Example:__
 
-Type "__2+2__" and select it, then press __ctrl+alt+c__ (_or command+alt+c in OSX_), the selected text will be replaced by "__4__".
+Type __2+2__ and select it, then press __ctrl+alt+c__ (or command+alt+c in OSX), the selected text will be replaced by __4__.
 
 You can perform any arithmetic operation following the syntax of Python.
